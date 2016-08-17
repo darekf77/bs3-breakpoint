@@ -1,0 +1,27 @@
+# Node Files #
+/node_modules
+/bower_components
+npm-debug.log
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+*.log
+npm-debug.log*
+
+/coverage
+
+
+# Typing #
+/src/typings/tsd/
+/typings/
+/tsd_typings/
+
+
+/bs3-breakpoint.js
+/bs3-breakpoint.js.map
+/src/**/*.js
+/src/**/*.js.map
