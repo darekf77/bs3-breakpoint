@@ -1,4 +1,22 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {}
+    },
+    "linkedProjects": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false
+    }
+  },
   "name": "bs3-breakpoint",
   "version": "0.0.2",
   "description": "Detect breakpoint in bootstrap 3 from Angular 2 apps",
@@ -19,5 +37,7 @@
   "bugs": {
     "url": "https://github.com/darekf77/bs3-breakpoint/issues"
   },
-  "homepage": "https://github.com/darekf77/bs3-breakpoint#readme"
+  "homepage": "https://github.com/darekf77/bs3-breakpoint#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
