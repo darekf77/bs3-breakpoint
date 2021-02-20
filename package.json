@@ -15,7 +15,19 @@
       "nodts": false,
       "obscure": false,
       "ugly": false
-    }
+    },
+    "scripts": {
+      "test": "karma test"
+    },
+    "description": "Detect breakpoint in bootstrap 3 from Angular 2 apps",
+    "license": "MIT",
+    "author": "Dariusz Filipiak",
+    "homepage": "https://github.com/darekf77/bs3-breakpoint#readme",
+    "main": "bs3-breakpoint.js",
+    "keywords": [
+      "angular2",
+      "bootstrap3"
+    ]
   },
   "name": "bs3-breakpoint",
   "version": "0.0.2",
