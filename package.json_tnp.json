@@ -1,5 +1,7 @@
 {
   "resources": [],
+  "type": "angular-lib",
+  "version": "v2",
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -26,5 +28,6 @@
   "keywords": [
     "angular2",
     "bootstrap3"
-  ]
+  ],
+  "private": false
 }
