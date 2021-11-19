@@ -29,5 +29,6 @@
     "angular2",
     "bootstrap3"
   ],
-  "private": false
+  "private": false,
+  "workerPlugins": {}
 }

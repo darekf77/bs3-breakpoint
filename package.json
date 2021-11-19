@@ -30,7 +30,8 @@
       "angular2",
       "bootstrap3"
     ],
-    "private": false
+    "private": false,
+    "workerPlugins": {}
   },
   "name": "bs3-breakpoint",
   "version": "0.0.10",
