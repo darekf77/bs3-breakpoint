@@ -24,6 +24,8 @@ Thumbs.db
 /bundle*
 /browser
 /browser*
+/websql
+/websql*
 /module*
 /backup
 /module
@@ -76,6 +78,8 @@ Thumbs.db
 /protractor.conf.js
 /karma.conf.js
 /src/index.html
+/tsconfig.backend.dist.json
+/tsconfig.backend.bundle.json
 
 
 
