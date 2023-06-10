@@ -1,8 +1,46 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {},
+      "npmFixes": []
+    },
+    "linkedProjects": [],
+    "smartContainerBuildTarget": "",
+    "linkedRepos": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false,
+      "includeNodeModules": false
+    },
+    "smartContainerTarget": "",
+    "type": "isomorphic-lib",
+    "version": "v3",
+    "scripts": {
+      "test": "karma test"
+    },
+    "description": "Detect breakpoint in bootstrap 3 from Angular 2 apps",
+    "license": "MIT",
+    "author": "Dariusz Filipiak",
+    "homepage": "https://github.com/darekf77/bs3-breakpoint#readme",
+    "main": "bs3-breakpoint.js",
+    "keywords": [
+      "angular2",
+      "bootstrap3"
+    ],
+    "private": true,
+    "workerPlugins": {}
+  },
   "name": "bs3-breakpoint",
   "version": "0.0.12",
   "description": "Detect breakpoint in bootstrap 3 from Angular 2 apps",
-  "main": "bs3-breakpoint.js",
   "scripts": {
     "test": "karma test"
   },
