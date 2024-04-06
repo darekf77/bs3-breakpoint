@@ -21,7 +21,8 @@
       "includeNodeModules": false,
       "cliBuildNoDts": false,
       "cliBuildObscure": false,
-      "cliBuildIncludeNodeModules": false
+      "cliBuildIncludeNodeModules": false,
+      "cliBuildUglify": false
     },
     "smartContainerTarget": "",
     "type": "isomorphic-lib",
@@ -294,5 +295,6 @@
   },
   "devDependencies": {},
   "private": true,
-  "lastBuildTagHash": "2a12af6e105a08a023d0f13a7e77ca6373d5ff7c"
+  "lastBuildTagHash": "2a12af6e105a08a023d0f13a7e77ca6373d5ff7c",
+  "main": "bs3-breakpoint.js"
 }
