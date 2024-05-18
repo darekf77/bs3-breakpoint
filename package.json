@@ -3,25 +3,19 @@
     "resources": [],
     "overrided": {
       "linkedFolders": [],
-      "ignoreDepsPattern": [
-        "*"
-      ],
+      "ignoreDepsPattern": [],
+      "npmFixes": [],
       "includeAsDev": [],
       "includeOnly": [],
-      "dependencies": {},
-      "npmFixes": []
+      "dependencies": {}
     },
     "smartContainerBuildTarget": "",
     "linkedRepos": [],
     "libReleaseOptions": {
-      "nodts": false,
-      "obscure": false,
-      "ugly": false,
-      "includeNodeModules": false,
       "cliBuildNoDts": false,
       "cliBuildObscure": false,
-      "cliBuildIncludeNodeModules": false,
-      "cliBuildUglify": false
+      "cliBuildUglify": false,
+      "cliBuildIncludeNodeModules": false
     },
     "smartContainerTarget": "",
     "type": "isomorphic-lib",
