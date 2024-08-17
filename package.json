@@ -3,7 +3,7 @@
     "resources": []
   },
   "name": "bs3-breakpoint",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Detect breakpoint in bootstrap 3 from Angular 2 apps",
   "scripts": {
     "test": "karma test"
